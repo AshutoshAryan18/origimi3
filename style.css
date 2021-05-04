@@ -1,0 +1,23 @@
+h1{
+    color:#cf921f
+}
+.header{
+    background-color:#7fc451;
+    display: flex;
+    justify-content: space-evenly;
+    border: 2px solid#c0173c;
+    border-radius: 50px;
+}
+.menu{
+    background-color:#63d418b0;
+    display: flexbox;
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.footer{
+    background-color: #63d418ef;
+    display:flex ;
+    flex-wrap: wrap;
+    border: 2px solid #c0173c;
+    border-radius: 40px;
+}
